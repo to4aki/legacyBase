@@ -1,0 +1,11 @@
+*.o
+*.so
+*.elf
+*.bin
+*.img
+OVMF_VARS*.fd
+
+esp/
+dist/
+poi/
+
